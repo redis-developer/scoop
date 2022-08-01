@@ -1,11 +1,11 @@
 {
   "homepage": "https://developer.redis.com/riot",
   "description": "Redis Input/Output Tools",
-  "version": "2.16.1",
+  "version": "2.16.2",
   "license": "Apache-2.0",
-  "url": "https://github.com/redis-developer/riot/releases/download/v2.16.1/riot-stream-2.16.1.zip",
-  "hash": "sha256:a7d9663177da55594d42e54cf88ad21b99c4effc6855c5624930225dd0723608",
-  "extract_dir": "riot-stream-2.16.1",
+  "url": "https://github.com/redis-developer/riot/releases/download/v2.16.2/riot-stream-2.16.2.zip",
+  "hash": "sha256:5d4345174a88bf3b32033d196ff42d50f5ce560ada8d3cd4bc2ff974df6f996d",
+  "extract_dir": "riot-stream-2.16.2",
   "env_add_path": "bin",
   "suggest": {
     "JDK": [
