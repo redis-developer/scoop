@@ -1,11 +1,11 @@
 {
-  "homepage": "https://developer.redis.com/riot",
+  "version": "2.18.6",
   "description": "Redis Input/Output Tools",
-  "version": "2.18.5",
+  "homepage": "https://developer.redis.com/riot",
   "license": "Apache-2.0",
-  "url": "https://github.com/redis-developer/riot/releases/download/v2.18.5/riot-file-2.18.5.zip",
-  "hash": "sha256:7ae05c9b7eb926faca22c26f0d0fb0eec0107a7aaaf44412ce3ef7e644cba3d4",
-  "extract_dir": "riot-file-2.18.5",
+  "url": "https://github.com/redis-developer/riot/releases/download/v2.18.6/riot-file-2.18.6.zip",
+  "hash": "sha256:ef637e1d720b46c749f1452ac73d7aa9754d39e916e4592fc2135ee30fdef559",
+  "extract_dir": "riot-file-2.18.6",
   "env_add_path": "bin",
   "suggest": {
     "JDK": [
